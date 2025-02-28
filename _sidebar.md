@@ -3,3 +3,6 @@
 * [Produtos](produtos.md)
 * [Pedidos](pedidos.md)
 * [Relatórios](relatorios.md)
+* [Marketing](marketing.md)
+* [Central](central.md)
+* [Pagamento](pagamento.md)

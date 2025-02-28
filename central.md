@@ -1,0 +1,5 @@
+# Central de Criação de Estampas
+
+A **Central de Criação de Estampas da Universo Ink** é uma ferramenta exclusiva para administradores, projetada para facilitar a criação de thumbnails ilustrativas com suas estampas de forma rápida e intuitiva. Com um editor próprio desenvolvido pela Universo Ink, você pode personalizar suas imagens diretamente na plataforma, sem a necessidade de recorrer a softwares de edição complexos.
+
+Essa funcionalidade é totalmente opcional, mas oferece uma alternativa prática para quem deseja criar imagens atraentes para sua loja de dropshipping, mesmo sem experiência prévia em design. O editor permite que você insira facilmente suas estampas em diferentes modelos e layouts, ajustando elementos como cores, texto e outros detalhes de forma simples, sem complicações. A Central de Criação é uma excelente opção para administradores que buscam agilidade na criação de imagens para produtos, campanhas promocionais ou qualquer outro conteúdo visual, garantindo que sua loja tenha uma aparência profissional e personalizada, sem a necessidade de ferramentas externas.

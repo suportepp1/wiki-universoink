@@ -1,10 +1,7 @@
 <!-- _coverpage.md -->
 
-![logo](_media/logo.svg)
+![logo](_media/logo.png)
 > Manual do Usuário
 
-- Fácil Gestão
-- Catálogo Personalizável
-- Sistema completo de Dropshipping
 
 [Site](https://universoink.com.br) 
